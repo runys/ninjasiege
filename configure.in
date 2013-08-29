@@ -1,0 +1,54 @@
+dnl Configure building definitions
+dnl
+dnl Author: Edson Alves - edsonalves@unb.br
+dnl Date: 26/11/2010
+
+dnl Initializing
+AC_PREREQ(2.59)
+AC_INIT(aclocal.m4)
+
+AC_CONFIG_AUX_DIR(config)
+AC_SUBST(ac_config_aux_dir)
+AC_CANONICAL_TARGET
+AC_CONFIG_MACRO_DIR(m4)
+
+dnl Version control
+PACKAGE=ninjasiege
+
+MAJOR_VERSION=1
+MINOR_VERSION=2
+MICRO_VERSION=0
+VERSION=$MAJOR_VERSION.$MINOR_VERSION.$MICRO_VERSION
+
+LT_RELEASE=$MAJOR_VERSION.$MINOR_VERSION.$MICRO_VERSION
+LT_CURRENT=$MAJOR_VERSION
+LT_REVISION=$MINOR_VERSION
+
+AC_SUBST(LT_RELEASE)
+AC_SUBST(LT_CURRENT)
+AC_SUBST(LT_REVISION)
+
+dnl Initializing automake 
+AM_INIT_AUTOMAKE($PACKAGE, $VERSION)
+
+AC_PROG_LIBTOOL
+
+dnl Auto generated config file
+AM_CONFIG_HEADER(include/config.h)
+
+dnl Finding building programs
+AC_PROG_CXX
+AC_PROG_INSTALL
+
+dnl Output files
+AC_OUTPUT(
+Makefile
+include/Makefile
+src/Makefile
+media/Makefile
+)
+
+dnl User info
+echo
+echo Type \'make\' to build $PACKAGE
+echo

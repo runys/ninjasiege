@@ -1,0 +1,6 @@
+Versão - Alteração
+0.1.0 - Criação da primeira versão do jogo. Abre a janela e mostra a logo da equipe
+0.2.0 - Versão agora conta com a tela inicial do jogo (apenas retangulos dos botões e imagens com color key)
+0.3.0 - Versão simplificada onde mostra um esboço do desenho de um mapa
+0.4.0 - Sem evoluções significativa. A equipe está trabalhando na arquitetura e modelagem do jogo
+0.6.0 - Agora está desenhando letras nos botoes

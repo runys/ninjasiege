@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/187/trunk/code/include
+END
+menuprincipal.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/172/trunk/code/include/menuprincipal.h
+END
+logofading.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/172/trunk/code/include/logofading.h
+END
+mutavel.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/143/trunk/code/include/mutavel.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/181/trunk/code/include/util.h
+END
+mapa.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/187/trunk/code/include/mapa.h
+END
+desenhavel.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/132/trunk/code/include/desenhavel.h
+END
+hud.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/159/trunk/code/include/hud.h
+END
+ataque.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/141/trunk/code/include/ataque.h
+END
+armadilha.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/99/trunk/code/include/armadilha.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/185/trunk/code/include/Makefile.am
+END
+tempo.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/141/trunk/code/include/tempo.h
+END
+ambiente.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/172/trunk/code/include/ambiente.h
+END
+tela.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/99/trunk/code/include/tela.h
+END
+fading.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/185/trunk/code/include/fading.h
+END
+aliado.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/141/trunk/code/include/aliado.h
+END
+torre.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/187/trunk/code/include/torre.h
+END
+inimigo.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/161/trunk/code/include/inimigo.h
+END
+escutavel.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/99/trunk/code/include/escutavel.h
+END
+jogo.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/170/trunk/code/include/jogo.h
+END
+mestre.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/115/trunk/code/include/mestre.h
+END
+wave.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/156/trunk/code/include/wave.h
+END
+botao.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/182/trunk/code/include/botao.h
+END

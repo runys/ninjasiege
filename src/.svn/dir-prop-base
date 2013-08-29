@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 38
+ninjasiege
+.deps
+Makefile.in
+Makefile
+
+END

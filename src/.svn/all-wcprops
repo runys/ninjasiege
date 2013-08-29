@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/187/trunk/code/src
+END
+jogo_detectarTodosEventos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/168/trunk/code/src/jogo_detectarTodosEventos.cpp
+END
+jogo_detectarSaidaAplicativo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/115/trunk/code/src/jogo_detectarSaidaAplicativo.cpp
+END
+fading.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/185/trunk/code/src/fading.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/code/src/Makefile.am
+END
+jogo_estadoSairAplicativo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/115/trunk/code/src/jogo_estadoSairAplicativo.cpp
+END
+torre.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/187/trunk/code/src/torre.cpp
+END
+escutavel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/97/trunk/code/src/escutavel.cpp
+END
+inimigo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/177/trunk/code/src/inimigo.cpp
+END
+jogo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/185/trunk/code/src/jogo.cpp
+END
+jogo_estadoJogando.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/170/trunk/code/src/jogo_estadoJogando.cpp
+END
+mestre.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/115/trunk/code/src/mestre.cpp
+END
+jogo_estadoMenuJogo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/172/trunk/code/src/jogo_estadoMenuJogo.cpp
+END
+wave.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/187/trunk/code/src/wave.cpp
+END
+jogo_estadosInternos.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/185/trunk/code/src/jogo_estadosInternos.cpp
+END
+jogo_desenharTudo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/145/trunk/code/src/jogo_desenharTudo.cpp
+END
+botao.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/182/trunk/code/src/botao.cpp
+END
+menuprincipal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/185/trunk/code/src/menuprincipal.cpp
+END
+jogo_estadoFimJogo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/185/trunk/code/src/jogo_estadoFimJogo.cpp
+END
+logofading.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/172/trunk/code/src/logofading.cpp
+END
+jogo_estadoEntradaJogo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/185/trunk/code/src/jogo_estadoEntradaJogo.cpp
+END
+jogo_fazerTodaLogica.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/185/trunk/code/src/jogo_fazerTodaLogica.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/187/trunk/code/src/util.cpp
+END
+mapa.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/187/trunk/code/src/mapa.cpp
+END
+ataque.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/150/trunk/code/src/ataque.cpp
+END
+hud.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/183/trunk/code/src/hud.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/135/trunk/code/src/main.cpp
+END
+ambiente.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/172/trunk/code/src/ambiente.cpp
+END
+tempo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/141/trunk/code/src/tempo.cpp
+END
+tela.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/172/trunk/code/src/tela.cpp
+END
